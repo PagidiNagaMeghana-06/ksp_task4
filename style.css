@@ -1,0 +1,48 @@
+h1{
+    color:purple;
+    font-family: monospace;
+    font-size: 40px;
+    background-color: aqua;
+}
+h2{
+    color:brown;
+    font-family: sans-serif;
+    font-size:30px;
+}
+h3{
+    color:blue;
+    font-size: 20px;
+}
+.MP1{
+    color: gold;
+}
+.MP2{
+    color:brown;
+}
+table,th,td{
+    border: 3px solid palevioletred;
+}
+th{
+    color:blue;
+}
+p{
+    font-family: cursive;
+    
+}
+.Demo1{
+    color: crimson;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Demo2{
+    color: darkcyan;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#sample1{
+    color: chartreuse;
+    font-weight:lighter;
+}
+.Demo3{
+    color:pink;
+    font-weight: bold;
+    background-color: cadetblue;
+   }
